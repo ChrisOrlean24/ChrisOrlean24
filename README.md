@@ -1,61 +1,77 @@
-# Hi 👋, I'm Martin!
+# Hi 👋, I'm Chris Orlean Hipe!
 
-## A passionate Junior Software Engineer from Estonia
+## An IT Student and future Full Stack Web Developer
 
-🚀 I'm currently working in **Wallester**
+🚀 I'm currently studying **Information Technology**
 
-🌱 I'm currently learning **Go language, PostgreSQL, AWS, Microservices**
+🌱 I'm currently learning **PHP, Laravel, Tailwind, Bootstrap, Node.js, React.js, TypeScript, Flask**
 
-💛 I'm looking for help with any sorting algorithms on any programming language in [Algorithms project](https://github.com/yourusername/Algorithms)
+💻 I'm passionate about creating responsive and intuitive web applications
 
-🌐 All of my projects are available at [https://martinsidorov.tk/](https://martinsidorov.tk/) and here)
+🌐 All of my projects are available at [GitHub](https://github.com/yourusername)
 
-📫 How to reach me: You can write me on [linkedin](https://linkedin.com/in/yourusername), [facebook](https://facebook.com/yourusername) or by [mail](mailto:youremail@gmail.com)
+📫 How to reach me: [linkedin](https://linkedin.com/in/yourusername) or by [mail](mailto:youremail@gmail.com)
 
 ### Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://fb.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" /></a>
+<a href="https://github.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yourusername" height="30" width="40" /></a>
 <!-- Add more social links as needed -->
 </p>
 
 ### Languages and Tools:
 
 <p align="left">
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<!-- Add more technology icons as needed -->
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-## Martin Sidorov's GitHub Stats
+### Currently Learning:
+
+<p align="left">
+<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+</p>
+
+## Chris Orlean Hipe's GitHub Stats
 
 <table>
   <tr>
     <td>Total Stars Earned:</td>
-    <td>2</td>
+    <td>0</td>
   </tr>
   <tr>
-    <td>Total Commits (2022):</td>
-    <td>115</td>
+    <td>Total Commits (2024):</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>Total PRs:</td>
-    <td>23</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>Total Issues:</td>
-    <td>3</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>Contributed to:</td>
-    <td>6</td>
+    <td>0</td>
   </tr>
 </table>
 
-<!-- Contribution graph similar to the one in the image -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=dracula)
+<!-- Contribution graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github)
